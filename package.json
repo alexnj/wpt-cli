@@ -1,6 +1,6 @@
 {
   "name": "wpt-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A command-line interface to WPT.FYI",
   "main": "index.js",
   "scripts": {
